@@ -1,0 +1,5 @@
+__pycache__/
+arxiv_pdfs/
+sentence-transformers_all-mpnet-base-v2/
+venv/
+.env
